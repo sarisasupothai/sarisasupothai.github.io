@@ -16,9 +16,9 @@
 # Experience
 * Pak Chiang Mai
 > _Reception and Barista_
-  > Managed front desk operations, including guest check-ins/outs, inquiries, and issue resolution.
-  > Assisted guests with product recommendations and sales while providing clear and responsible guidance.
-  > Maintained a clean and organized lobby and café area to ensure a welcoming guest experience.
+> Managed front desk operations, including guest check-ins/outs, inquiries, and issue resolution.
+> Assisted guests with product recommendations and sales while providing clear and responsible guidance.
+> Maintained a clean and organized lobby and café area to ensure a welcoming guest experience.
 * Experience 2
 * Experience 3
 

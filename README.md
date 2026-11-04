@@ -9,6 +9,8 @@
 > Thailand<br />
 
 # Education
+* Assumption College Lampang
+> Science and Mathematics Program
 * Bachelor Degree English Communication
 
 # Experience

@@ -1,4 +1,4 @@
-<img src="http://sarisasupothai.github.io/img/Profile.jpg" alt="RPB Photo" align="right" width="30%"/>
+<img src="http://sarisasupothai.github.io/img/[Profile.jpg](https://mail.google.com/mail/u/0/#inbox/QgrcJHsHsJSZQRnhDsJtKvXvHknxfZPqXkv?projector=1)" alt="RPB Photo" align="right" width="30%"/>
 
 # _Sarisa Supothai_
 > Motivated university student with experience in hospitality, front desk reception, guest relations, tour sales, bartending, and accounting assistance. Friendly, adaptable, and proficient in Thai and English, with an interest in organization and accounting. I enjoy connecting with guests and hearing their stories, which inspire me to provide thoughtful service. Eager to contribute to the team while learning and growing in a luxury hotel environment.

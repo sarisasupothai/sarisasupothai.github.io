@@ -15,7 +15,7 @@
 
 # Experience
 * Pak Chiang Mai
->
+----
 > _Reception and Barista_
 > _Oct 2023 - Jun 2025 (1 yr, 8 m)_
 > Managed front desk operations, including guest check-ins/outs, inquiries, and issue resolution.

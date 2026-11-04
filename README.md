@@ -20,16 +20,19 @@
 > Managed front desk operations, including guest check-ins/outs, inquiries, and issue resolution.
 > Assisted guests with product recommendations and sales while providing clear and responsible guidance.
 > Maintained a clean and organized lobby and café area to ensure a welcoming guest experience.
+
 ### The Connection Hostel
 * _Receptionist_
 * _Dec 2024 - Jul 2025 (8 m)_
 > Handled guest check-ins/outs, provided travel information, and assisted with tour bookings and ticket sales.
 > Organized and managed hostel activities such as pub crawls and local tours, including planning schedules, contacting transportation, and arranging entrance fees.
+
 ### Moment's Notice Jazz Club
 * _Junior Bartender_
 * _Sep 2025 - May 2026 (9 m)_
 > Prepared and served cocktails using standard bartending techniques in a high-volume jazz club environment.
 > Managed bar setup, restocking, and cleanliness while supporting smooth and efficient service during peak hours.
+
 ### North Gate Jazz Co-Op
 * _Accounting Assistant_
 * _Jun 2026 - Present (5 m)_
@@ -68,6 +71,7 @@
 * Manager from The Connection Hostel
 > Email : Juthathip.pattaradul@gmail.com /
 > (+66) 94 275 717 8
+
 ### Ms. Napatsaya Natchayangkul 
 * Manager from Pak Chiang Mai Hotel
 > Email : pakcnx@gmail.com /
@@ -79,6 +83,5 @@
 # Contact Info
 * [Web Page](https://sarisasupothai.github.io)
 * [LinkedIn](https://www.linkedin.com/in/Linkedinsarisasupothai)
-* [Instagram] (https://www.instagram.com/call.ed_maysa?cplk=MmVyYncwYXFxcGQ2&utm_source=qr)
-* [Phone] (+66 96 235 6163)
-* [Email] (sarisa.supothai@gmail.com)
+* Phone +66 96 235 6163
+* Email sarisa.supothai@gmail.com

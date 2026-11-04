@@ -6,34 +6,48 @@
 ## Education
 ### Assumption College Lampang
 * Science and Mathematics Program
-> 2007-2022 / GPA 3.90
+> 2007-2022 GPA 3.90
 ### Payap University
-* International College
-* Bachelor of English Communication
+* International College Bachelor of English Communication
 > 2023-2027 / GPA 3.28
 
 
 ## Experience
-* Pak Chiang Mai
-----
-> _Reception and Barista_
-> _Oct 2023 - Jun 2025 (1 yr, 8 m)_
+### Pak Chiang Mai
+* _Reception and Barista_
+* _Oct 2023 - Jun 2025 (1 yr, 8 m)_
 > Managed front desk operations, including guest check-ins/outs, inquiries, and issue resolution.
 > Assisted guests with product recommendations and sales while providing clear and responsible guidance.
 > Maintained a clean and organized lobby and café area to ensure a welcoming guest experience.
-* The Connection Hostel
-> _Receptionist_
-> 
->
-* Experience 3
+### The Connection Hostel
+* _Receptionist_
+* _Dec 2024 - Jul 2025 (8 m)_
+> Handled guest check-ins/outs, provided travel information, and assisted with tour bookings and ticket sales.
+> Organized and managed hostel activities such as pub crawls and local tours, including planning schedules, contacting transportation, and arranging entrance fees.
+### Moment's Notice Jazz Club
+* _Junior Bartender_
+* _Sep 2025 - May 2026 (9 m)_
+> Prepared and served cocktails using standard bartending techniques in a high-volume jazz club environment.
+> Managed bar setup, restocking, and cleanliness while supporting smooth and efficient service during peak hours.
+### North Gate Jazz Co-Op
+* _Accounting Assistant_
+* _Jun 2026 - Present (5 m)_
+> Managed daily cash transactions and beer sales, ensuring accurate payment collection and cash handling.
+> Calculated and distributed daily tips and bonuses for both full-time and part-time staff, including musicians.
 
-# Interests
-* Interest 1
-* Interest 2
 
-# Special skills
-* Skill 1 
-* Skill 2
+## Core Competencies
+* Front Desk Operations & Scheduling : used of cloud bed / hoteliers.guru / hostelworld
+* Fast-Paced Service & Guest Interaction 
+* Tours selling and planning deciding tours and contacts
+* Beverage Preparation & Cocktail Techniques 
+* Professional Communication 
+* Team Coordination & Delegation
+
+## Languages
+* Thai : Native
+* English : Upper Intermediate
+> Equivalent to CEFR Level B2
 
 # Contact Info
 * [Web Page](https://loginname.github.io)

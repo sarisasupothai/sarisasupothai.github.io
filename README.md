@@ -3,7 +3,7 @@
 # _Sarisa Supothai_
 > Motivated university student with experience in hospitality, front desk reception, guest relations, tour sales, bartending, and accounting assistance. Friendly, adaptable, and proficient in Thai and English, with an interest in organization and accounting. I enjoy connecting with guests and hearing their stories, which inspire me to provide thoughtful service. Eager to contribute to the team while learning and growing in a luxury hotel environment.
 
---
+----
 ## Education
 ### Assumption College Lampang
 * Science and Mathematics Program
@@ -12,7 +12,7 @@
 * International College Bachelor of English Communication
 > 2023-2027 / GPA 3.28
 
---
+----
 ## Experience
 ### Pak Chiang Mai
 * _Reception and Barista_
@@ -36,7 +36,7 @@
 > Managed daily cash transactions and beer sales, ensuring accurate payment collection and cash handling.
 > Calculated and distributed daily tips and bonuses for both full-time and part-time staff, including musicians.
 
-
+----
 ## Core Competencies
 * Front Desk Operations & Scheduling : used of cloud bed / hoteliers.guru / hostelworld
 * Fast-Paced Service & Guest Interaction 
@@ -45,12 +45,40 @@
 * Professional Communication 
 * Team Coordination & Delegation
 
+----
 ## Languages
 * Thai : Native
 * English : Upper Intermediate
 > Equivalent to CEFR Level B2
 
+
+----
+## Soft skills
+* Customer Service Excellence
+* Attention to details
+* Cultural Awareness
+* Multitasking
+* Cash Handling & POS Systems
+* Accounting skills (Excel or Google sheet)
+
+
+----
+## References
+### Ms. Juthathip Pattaradul 
+* Manager from The Connection Hostel
+> Email : Juthathip.pattaradul@gmail.com /
+> (+66) 94 275 717 8
+### Ms. Napatsaya Natchayangkul 
+* Manager from Pak Chiang Mai Hotel
+> Email : pakcnx@gmail.com /
+> (+66) 81 980 428 4
+
+
+
+
 # Contact Info
-* [Web Page](https://loginname.github.io)
-* [LinkedIn](https://www.linkedin.com/in/LinkedinAccountName)
-* [Twitter](https://twitter.com/twittername)
+* [Web Page](https://sarisasupothai.github.io)
+* [LinkedIn](https://www.linkedin.com/in/Linkedinsarisasupothai)
+* [Instagram] (https://www.instagram.com/call.ed_maysa?cplk=MmVyYncwYXFxcGQ2&utm_source=qr)
+* [Phone] (+66 96 235 6163)
+* [Email] (sarisa.supothai@gmail.com)

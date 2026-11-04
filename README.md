@@ -7,7 +7,10 @@
 * Assumption College Lampang
 > Science and Mathematics Program
 > 2007-2022 / GPA 3.90
-* Bachelor Degree English Communication
+* Payap University
+> International College
+> Bachelor of English Communication
+> 2023-2027 / GPA 3.28
 
 
 # Experience

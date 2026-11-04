@@ -1,15 +1,15 @@
 <img src="https://organicthemes.com/demo/nonprofit/files/2015/05/computer-coffee-dark-300x200.jpg" alt="Photo" align="right" width="30%"/>
 
-# _Sarisa Supothai_
+### _Sarisa Supothai_
 > Motivated university student with experience in hospitality, front desk reception, guest relations, tour sales, bartending, and accounting assistance. Friendly, adaptable, and proficient in Thai and English, with an interest in organization and accounting. I enjoy connecting with guests and hearing their stories, which inspire me to provide thoughtful service. Eager to contribute to the team while learning and growing in a luxury hotel environment.
 
-# Education
-* Assumption College Lampang
-> Science and Mathematics Program
+## Education
+# Assumption College Lampang
+* Science and Mathematics Program
 > 2007-2022 / GPA 3.90
-* Payap University
-> International College
-> Bachelor of English Communication
+# Payap University
+* International College
+* Bachelor of English Communication
 > 2023-2027 / GPA 3.28
 
 

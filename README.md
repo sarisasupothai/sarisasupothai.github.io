@@ -1,4 +1,5 @@
-<img src="http://sarisasupothai.github.io/img/[Profile.jpg](https://mail.google.com/mail/u/0/#inbox/QgrcJHsHsJSZQRnhDsJtKvXvHknxfZPqXkv?projector=1)" alt="RPB Photo" align="right" width="30%"/>
+<img src="http://sarisasupothai.github.io/img/<img width="1086" height="1448" alt="Profile" src="https://github.com/user-attachments/assets/f62a112b-5137-45e6-8d3e-8814506c4c6a" />
+" alt="RPB Photo" align="right" width="30%"/>
 
 # _Sarisa Supothai_
 > Motivated university student with experience in hospitality, front desk reception, guest relations, tour sales, bartending, and accounting assistance. Friendly, adaptable, and proficient in Thai and English, with an interest in organization and accounting. I enjoy connecting with guests and hearing their stories, which inspire me to provide thoughtful service. Eager to contribute to the team while learning and growing in a luxury hotel environment.
@@ -7,7 +8,8 @@
 ## Education
 ### Assumption College Lampang
 * Science and Mathematics Program
-> 2007-2022 GPA 3.90
+> 2007-2022 GPA 3.90<img width="1086" height="1448" alt="Profile" src="https://github.com/user-attachments/assets/d5cc7661-fd2a-44f1-84ae-3ce454a63ae5" />
+
 ### Payap University
 * International College Bachelor of English Communication
 > 2023-2027 / GPA 3.28

@@ -16,10 +16,14 @@
 # Experience
 * Pak Chiang Mai
 > _Reception and Barista_
+> _Oct 2023 - Jun 2025 (1 yr, 8 m)_
 > Managed front desk operations, including guest check-ins/outs, inquiries, and issue resolution.
 > Assisted guests with product recommendations and sales while providing clear and responsible guidance.
 > Maintained a clean and organized lobby and café area to ensure a welcoming guest experience.
-* Experience 2
+* The Connection Hostel
+> _Receptionist_
+> 
+>
 * Experience 3
 
 # Interests

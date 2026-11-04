@@ -2,7 +2,7 @@
 
 # _Sarisa Supothai_
 > _Undergraduated Student_<br />
-* Payap University<br />
+> Payap University<br />
 > International College Department<br />
 > Amphur Muang<br />
 > Chiang Mai 50000<br />
